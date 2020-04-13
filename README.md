@@ -24,5 +24,9 @@ And `top.c` `middle.c` `bottom.c` respectively provide the implementations of th
 ## Note
 This is an assignment for my os class and anybody can refer to this work for your practice.   
   
-But please just do not copy the whole projects directly. My motivation is to provide a possible version for anyone who has difficulty in finishing the whole system on their own.
- 
+But please just do not copy the whole projects directly. My motivation is to provide a possible version for anyone who has difficulty in finishing the whole system on their own.  
+
+Welcome to raise issues for bugs or questions about this work.
+
+## Future work
+I will provide a version commented with English. And welcome you guys who could provide an English version to send a pull request.
